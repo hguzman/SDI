@@ -1,5 +1,7 @@
 create database Fiestadecolores;
+
 use Fiestadecolores;
+
 create table clientes(
 cedula bigint,
 edad int,
